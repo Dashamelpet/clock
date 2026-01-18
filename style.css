@@ -14,8 +14,8 @@ body {
 }
 .changes {
   width: 100%;
-  height: 140px;
-  object-fit: cover;
+  height: 150px;
+  object-fit: contain;
 }
 .clock-wrap {
   width: 100%;
